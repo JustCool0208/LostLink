@@ -1,6 +1,5 @@
 # 🔍 LostLink AI — Smart Lost & Found System
-<hr>
-<br>
+
 ## A powerful AI-driven Lost & Found system that makes item recovery 𝐬𝐦𝐚𝐫𝐭𝐞𝐫, 𝐟𝐚𝐬𝐭𝐞𝐫 and 𝐞𝐟𝐟𝐨𝐫𝐭𝐥𝐞𝐬𝐬.
 
 LostLink AI is a fully functional, AI-powered Lost & Found web application that helps users report, browse, and claim lost or found items using intelligent matching algorithms and real-time communication support.
