@@ -77,9 +77,3 @@ _(Full list in code)_
 ![1751479924224](https://github.com/user-attachments/assets/f60d3b2e-d7b0-45b2-8c20-a0420896c37e)
 ![1751479924228](https://github.com/user-attachments/assets/c38c7aa9-6c60-4eeb-8c5b-b13f53be8fb9)
 ![1751479924216](https://github.com/user-attachments/assets/55290fbe-b2d6-48d7-a21c-55680003fe7d)
-[1751479924564](https://github.com/user-attachments/assets/bffa6789-b567-4005-8236-9a1182f3cc87)
-[1751479924266](https://github.com/user-attachments/assets/e390e668-6ead-430e-af79-4e22fc53f70a)
-[1751479924215](https://github.com/user-attachments/assets/d4f7fb17-fee4-49d6-be74-db4b6c30f14c)
-![1751479924251](https://github.com/user-attachments/assets/0db6af72-d72d-4b6c-8b3c-ffd70f883d9c)
-
-
