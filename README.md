@@ -81,11 +81,5 @@ _(Full list in code)_
 [1751479924266](https://github.com/user-attachments/assets/e390e668-6ead-430e-af79-4e22fc53f70a)
 [1751479924215](https://github.com/user-attachments/assets/d4f7fb17-fee4-49d6-be74-db4b6c30f14c)
 ![1751479924251](https://github.com/user-attachments/assets/0db6af72-d72d-4b6c-8b3c-ffd70f883d9c)
-![1751479924278](https://github.com/user-attachments/assets/4b65fe83-4b83-44c9-
-![1751479924215](https://github.com/user-attachments/assets/d018cdaf-9f34-4ecb-9ff8-e2387087ef9a)
-be52-0391c191eb30)
 
 
-![1751479924208](https://github.com/user-attachments/assets/ddac0598-d179-4b1b-ac00-7ecda7![1751479924216](https://github.com/user-attachments/assets/a5d5707d-c1f2-42ac-99c2-737534963ec3)
-084842)
-s/38c7172d-489f-466e-ab95-1eb8c02c3c4d)
