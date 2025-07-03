@@ -1,8 +1,12 @@
 # 🔍 LostLink AI — Smart Lost & Found System
+<hr>
+## A powerful AI-driven Lost & Found system that makes item recovery 𝐬𝐦𝐚𝐫𝐭𝐞𝐫, 𝐟𝐚𝐬𝐭𝐞𝐫 and 𝐞𝐟𝐟𝐨𝐫𝐭𝐥𝐞𝐬𝐬.
 
 LostLink AI is a fully functional, AI-powered Lost & Found web application that helps users report, browse, and claim lost or found items using intelligent matching algorithms and real-time communication support.
 
-Built with love ❤️ and logic by [Rohith](https://github.com/JustCool0208) and [Rohan](https://github.com/RohanAM-286).
+🔧 Every part of the system – from the frontend to the AI engine – was built from scratch, focusing on 𝐬𝐢𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲, 𝐬𝐩𝐞𝐞𝐝, 𝐚𝐧𝐝 𝐮𝐬𝐚𝐛𝐢𝐥𝐢𝐭𝐲. No heavy frameworks, just 𝐜𝐥𝐞𝐚𝐧 𝐥𝐨𝐠𝐢𝐜 𝐚𝐧𝐝 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐟𝐮𝐥 𝐝𝐞𝐬𝐢𝐠𝐧.
+
+Built by [Rohith](https://github.com/JustCool0208) and [Rohan](https://github.com/RohanAM-286).
 
 ---
 
@@ -67,7 +71,11 @@ _(Full list in code)_
 - JWT-based login/signup
 - Token must be attached 
 
-## 📸 Screenshots
+
+## 📸 Screenshots and feature highlights are added.
+
+The attachments include the core website functions + admin dashboard and it includes screenshots of the mails and call done by AI agent.
+
 ![1751479924237](https://github.com/user-attachments/assets/a07b75f3-78a6-43d4-9fbd-3b7c20d54c9e)
 ![1751479924220](https://github.com/user-attachments/assets/39090ef8-3a27-4e4d-aca7-64c32a391d40)
 
